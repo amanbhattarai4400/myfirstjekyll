@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
-
-gemspec
+ruby RUBY_VERSION
+gem 'github-pages'
 
